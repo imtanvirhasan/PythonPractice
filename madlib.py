@@ -1,4 +1,3 @@
-
 adj = input("Enter Adj:")
 verb = input("Enter verb:")
 famous_person = input("famous coder name:")
