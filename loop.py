@@ -1,7 +1,6 @@
 total = 0
-j = 1
-if j < 5:
-   total += j
-   j += 1
-print(total)
+for i in range(1, 100):
+    if i % 3 == 0 or i % 5 == 0:
+        total += i
+print (total)
 
