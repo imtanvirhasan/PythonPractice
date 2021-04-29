@@ -1,6 +1,6 @@
 x = int(input("How many candies you need?"))
 av = 10
-i = 1 
+i = 1
 while i <= x:
     if i > av:
         print("Out of stock")
